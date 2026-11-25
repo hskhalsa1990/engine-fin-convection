@@ -1,0 +1,11 @@
+| Shape | Height (mm) | Q per fin (W) | Efficiency | Mass (g) | Q per kg (W/kg) |
+|---|---|---|---|---|---|
+| Rectangular plate | 20.0 | 27.7 | 0.977 | 16.2 | 1710.0 |
+| Rectangular plate | 40.0 | 50.4 | 0.921 | 32.4 | 1555.0 |
+| Rectangular plate | 60.0 | 68.4 | 0.844 | 48.6 | 1407.0 |
+| Triangular plate | 20.0 | 24.9 | 0.971 | 8.1 | 3079.0 |
+| Triangular plate | 40.0 | 46.0 | 0.898 | 16.2 | 2839.0 |
+| Triangular plate | 60.0 | 61.7 | 0.803 | 24.3 | 2538.0 |
+| Cylindrical pin (D=6 mm) | 20.0 | 2.5 | 0.978 | 1.5 | 1661.0 |
+| Cylindrical pin (D=6 mm) | 40.0 | 4.6 | 0.923 | 3.1 | 1513.0 |
+| Cylindrical pin (D=6 mm) | 60.0 | 6.3 | 0.847 | 4.6 | 1372.0 |

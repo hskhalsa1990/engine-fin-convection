@@ -1,0 +1,5 @@
+Model,R2,MAE (W)
+Linear,0.924,6.63
+Random Forest,0.9837,2.81
+Gradient Boosting,0.9881,2.49
+Neural Net (MLP),0.9917,2.13

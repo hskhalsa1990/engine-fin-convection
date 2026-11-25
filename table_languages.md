@@ -1,0 +1,7 @@
+| Language | Q (W) | Run time incl. startup (ms) | Status |
+|---|---|---|---|
+| Python (in-process, no process startup) | 85.2048 | 0.24 | ran |
+| C | 85.2048 | 2.02 | ran |
+| C++ | 85.2048 | 3.68 | ran |
+| Rust | - | - | rustc not installed |
+| Go | - | - | go not installed |
